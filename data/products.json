@@ -1,0 +1,17 @@
+[
+  {
+    "id": "0fd1da82-f92e-4dc5-99ff-16cbd7d76f4e",
+    "name": "IPad",
+    "price": 1200
+  },
+  {
+    "id": "4ebe8740-68f3-4135-b5ba-17bd7035c7e1",
+    "name": "IPhone",
+    "price": 700
+  },
+  {
+    "id": "ab9681d0-3ebc-4fda-b665-bfa7e2439ac7",
+    "name": "Mac Book Pro",
+    "price": 2300
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "6f81da1d-ce64-40f1-bdf4-134a73ced7a3",
+    "name": "Qasim",
+    "email": "qasim@gmail.com",
+    "password": "$2b$10$xZ700N4teeqJCq/jfU5hKO/Gv6VE7OzpDiGilx2ErnmGdvIrHzGne",
+    "createdAt": "2025-08-19"
+  },
+  {
+    "id": "12fc6943-b99a-42d9-9611-eded164b11ec",
+    "name": "Sohaib",
+    "email": "sohaib@gmail.com",
+    "password": "$2b$10$C7mLhzvoNCkXcej6ZQqdi.6s0SzuRr6kAWXQeqM1jbQ0DszbX2bHm",
+    "createdAt": "2025-08-19",
+    "updatedAt": "2025-08-19"
+  }
+]
